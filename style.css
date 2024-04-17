@@ -5,6 +5,10 @@
     padding: 0;
     font-family: "Montserrat", sans-serif;
 }
+.kit-wrapper{
+    display: flex;
+    gap: 1rem;
+}
 .sidebar{
     width: 230px;
     height: 100vh;
@@ -22,13 +26,14 @@ nav{
     width: 100%;
 }
 .logo{
+    padding-top: 1rem;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .sidebar img{
-    width: 120px;
+    width: 70px;
 }
 ul{
     color: #2E4057;
