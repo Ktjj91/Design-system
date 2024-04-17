@@ -5,7 +5,7 @@
 }
 .kit-wrapper{
     display: flex;
-    gap: 1rem;
+    gap: 5rem;
 }
 .sidebar{
     width: 230px;
@@ -73,7 +73,6 @@ li p {
     width: 100%;
     justify-content: center;
     align-items: center;
-    margin: 0 0 5rem 0;
 }
 
 .bottom button {
