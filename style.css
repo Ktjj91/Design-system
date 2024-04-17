@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -134,3 +135,42 @@ li p {
 .floating-input:hover {
     border-color: #007bff;
 }
+=======
+/* CSS DROPDOWN */
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 307px;
+  height: 67px;
+  padding-inline: 20px;
+
+  background-color: #f5f5f5;
+  color: black;
+  border: none;
+  border-radius: 8px;
+
+  font-size: 18px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+}
+
+.dropbtn img {
+  width: 30px;
+  height: 30px;
+  transform: rotate(180deg);
+  transition: all 0.3s ease;
+}
+
+.dropbtn-rotate {
+  transform: rotate(360deg);
+}
+>>>>>>> hugo-dropdown
