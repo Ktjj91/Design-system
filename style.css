@@ -134,7 +134,7 @@ li p {
 .floating-input:hover {
     border-color: #007bff;
 }
-=======
+
 /* CSS DROPDOWN */
 
 .dropdown {
@@ -172,4 +172,4 @@ li p {
 .dropbtn-rotate {
   transform: rotate(360deg);
 }
->>>>>>> hugo-dropdown
+
